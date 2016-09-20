@@ -17,8 +17,38 @@ Compile as 32-bit for Resolume compatibility.
 Copy the compiled `*.bundle` files into your Resolume plugins folder.
 Or preferably, create a new folder and link to it in the Resolume config.
 
+![Resolume Plugin Config](/img/resolume-config.png?raw=true)
 
 ## Examples
+
+### Noise
+
+![Noise](/img/Noise-params.png?raw=true)
+![Noise](/img/Noise.png?raw=true)
+
+### Plasma
+
+![Plasma](/img/Plasma-params.png?raw=true)
+![Plasma](/img/Plasma.png?raw=true)
+
+### RGB Source
+
+![RGB Source](/img/RGBSource-params.png?raw=true)
+![RGB Source](/img/RGBSource.png?raw=true)
+
+### Spiral
+
+![Spiral](/img/Spiral.png?raw=true)
+
+### Springs
+
+![Springs](/img/Springs.png?raw=true)
+
+### Underwater Life
+
+![Underwater Life](/img/UnderwaterLife.png?raw=true)
+
+### Evil
 
 ![EvilShader](/img/Evil.png?raw=true)
 
