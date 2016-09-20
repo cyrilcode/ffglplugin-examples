@@ -10,6 +10,14 @@ creating FFGL plugins.
 
 See EmptyEffect for most basic use case.
 
+Compile as 32-bit for Resolume compatibility. 
+
+## Installation
+
+Copy the compiled `*.bundle` files into your Resolume plugins folder.
+Or preferably, create a new folder and link to it in the Resolume config.
+
+
 
 ## License  
 

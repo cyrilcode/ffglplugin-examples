@@ -46,11 +46,3 @@ set_target_properties(Noise PROPERTIES BUNDLE true)
 add_library(Springs MODULE Springs.cpp ${FFGL_PLUGIN_FILES})
 target_link_libraries(Springs ${OPENGL_LIBRARIES})
 set_target_properties(Springs PROPERTIES BUNDLE true)
-
-add_library(GodRays MODULE GodRays.cpp ${FFGL_PLUGIN_FILES})
-target_link_libraries(GodRays ${OPENGL_LIBRARIES})
-set_target_properties(GodRays PROPERTIES BUNDLE true)
-
-add_library(KaliF1 MODULE KaliF1.cpp ${FFGL_PLUGIN_FILES})
-target_link_libraries(KaliF1 ${OPENGL_LIBRARIES})
-set_target_properties(KaliF1 PROPERTIES BUNDLE true)
