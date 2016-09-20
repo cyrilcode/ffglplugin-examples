@@ -18,6 +18,10 @@ Copy the compiled `*.bundle` files into your Resolume plugins folder.
 Or preferably, create a new folder and link to it in the Resolume config.
 
 
+## Examples
+
+![EvilShader](/img/Evil.png?raw=true)
+
 
 ## License  
 
