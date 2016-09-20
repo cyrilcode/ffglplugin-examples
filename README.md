@@ -14,6 +14,8 @@ Compile as 32-bit for Resolume compatibility.
 
 ## Installation
 
+Download from the [Releases page](https://github.com/cyrilcode/ffglplugin-examples/releases).
+
 Copy the compiled `*.bundle` files into your Resolume plugins folder.
 Or preferably, create a new folder and link to it in the Resolume config.
 
