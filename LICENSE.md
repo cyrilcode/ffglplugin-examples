@@ -1,7 +1,7 @@
 Copyright (C) 2016 Darren Mothersele <me@daz.is> 
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the COPYING file for more details.
+as published by Sam Hocevar. 
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
